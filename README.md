@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ClouD, a.k.a 610uD</h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">h3>
 <p align="left">
 </p>
 
