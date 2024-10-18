@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ClouD, a.k.a 610uD</h1>
 
-<h1 align="center">he/him</h1>
+
 
 <p align="left">
 </p>
